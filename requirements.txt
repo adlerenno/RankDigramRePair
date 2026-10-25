@@ -1,0 +1,2 @@
+typing-extensions==4.12.2
+progress==1.6
